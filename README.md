@@ -33,11 +33,11 @@
  <tr>
  <td>
  <div align = "left">
-<img height = "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indrath&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indrath&show_icons=true&theme=tokyonight&count_private=true"/>
 </td>
 
 <td>
-<img height = "100em" src="https://github-readme-stats.vercel.app/api?username=Indrath&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
+<img height = "150em" src="https://github-readme-stats.vercel.app/api?username=Indrath&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
 </td>
 </div>
  </tr>
