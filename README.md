@@ -1,16 +1,45 @@
-### Hi there 👋
 
-<!--
-**IndrathK/IndrathK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src = "banner.gif" width = "325px" align = right>
 
-Here are some ideas to get you started:
+# Olá, Seja muito bem-vindo ao meu GitHub! ✌️
+ <div>
+    <div id="badges">
+  <a href = "https://www.linkedin.com/in/daniel-souza-a3a060225/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href = "https://www.instagram.com/dantk9/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  
+  Sou um desenvolvedor Junior apaixonado por tecnologia.
+  
+  - 👩‍💻 Graduando em Análise e Desenvolvimento de Sistemas
+  - 🤍 Aprofundando-me em Java e SpringBoot
+  - 🔥 Entusiasta do Mundo da Programação
+  
+  ---
+  
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" title = "CSS" width="40" height="40"/>&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title = "python" width="40" height="40"/>&nbsp;
+  </div>
+ 
+ <table style = border 0px solid;>
+ 
+ <tr>
+ <td>
+ <div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indrath&show_icons=true&theme=tokyonight&count_private=true"/>
+</td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<td>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Indrath&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
+</td>
+</div>
+ </tr>
+ </table>
+ 
+ 
+ 
