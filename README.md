@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
-  Sou um desenvolvedor Junior apaixonado por tecnologia.
+  Sou um desenvolvedor apaixonado por tecnologia.
   
   - 👩‍💻 Graduando em Análise e Desenvolvimento de Sistemas
   - 🤍 Aprofundando-me em Java e SpringBoot
